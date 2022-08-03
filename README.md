@@ -4,5 +4,4 @@ Repo creado en la clase virtual
 * clase virtual.
 * primer commit.
 
-* Segundo commit
-    * agregando info
+* Aprendiendo PRs
